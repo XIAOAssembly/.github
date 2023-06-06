@@ -26,4 +26,4 @@ Our mission is to create a safe, respectful, and inclusive tech learning space w
 
 We warmly invite you to join our community! Whether you're just starting your tech journey or you're a seasoned professional looking to share your knowledge, there's a place for you at XIAO DAO. 🎈
 
-Check out our [Discord server](https://discord.gg/HgMH9xJM) and become a part of the XIAO DAO community today! You can also visit our [website](https://xaio-dao
+Check out our [Discord server](https://discord.gg/HgMH9xJM) and become a part of the XIAO DAO community today! You can also visit our [website](https://xaio-dao)
